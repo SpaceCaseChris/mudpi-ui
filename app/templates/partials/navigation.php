@@ -12,13 +12,14 @@
         </svg>
 
 
-        <div class="nav-menu">
-            <!-- Left Side Of Navbar -->
-            <ul class="nav-left">
-                <li class="nav-item"><a href="/dashboard.php">Dashboard</a></li>
-                <li class="nav-item"><a href="/toggles.php">Toggles</a></li>
-                <li class="nav-item"><a href="/displays.php">Displays</a></li>
-            </ul>
+    <div class="nav-menu">
+        <!-- Left Side Of Navbar -->
+        <ul class="nav-left">
+            <li class="nav-item"><a href="/dashboard.php">Dashboard</a></li>
+            <li class="nav-item"><a href="/toggles.php">Toggles</a></li>
+            <li class="nav-item"><a href="/displays.php">Displays</a></li>
+            <li class="nav-item"><a href="/cameras.php">Cameras</a></li>
+        </ul>
 
             <!-- Right Side Of Navbar -->
             <ul class="nav-right">
