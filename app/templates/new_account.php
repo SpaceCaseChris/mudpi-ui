@@ -9,9 +9,7 @@
 	    <meta name="description" content="MudPi Initial Setup Page for First time users.">
 	    <meta name="author" content="MudPi - Eric Davisson">
 
-		<link rel="stylesheet" type="text/css" href="css/main.css">
-		<link rel="stylesheet" type="text/css" href="css/fonts.css">
-		<link rel="stylesheet" type="text/css" href="css/app.css">
+		<?php include "partials/headIncludes.php"; ?>
 		<style>
 			#app {
 				background: linear-gradient(315deg, #5c9347, #dbf0d0, #fff);

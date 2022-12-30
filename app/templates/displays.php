@@ -9,9 +9,7 @@
 	    <meta name="description" content="MudPi Control Page for Displays.">
 	    <meta name="author" content="MudPi - Eric Davisson">
 
-		<link rel="stylesheet" type="text/css" href="css/main.css">
-		<link rel="stylesheet" type="text/css" href="css/fonts.css">
-		<link rel="stylesheet" type="text/css" href="css/app.css">
+		<?php include "partials/headIncludes.php"; ?>
 		<style>
 			#app.transition-out {
 				background-position:0 0;

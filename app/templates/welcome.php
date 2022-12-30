@@ -9,9 +9,7 @@
 	    <meta name="description" content="MudPi Initial Dashboard Settings.">
 	    <meta name="author" content="MudPi - Eric Davisson">
 
-		<link rel="stylesheet" type="text/css" href="css/main.css">
-		<link rel="stylesheet" type="text/css" href="css/fonts.css">
-		<link rel="stylesheet" type="text/css" href="css/intro.css">
+		<?php include "partials/headIncludes.php"; ?>
 	</head>
 	<body>
 		<div id="app" class="mnh-full">
